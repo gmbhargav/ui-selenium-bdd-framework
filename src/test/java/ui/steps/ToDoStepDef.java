@@ -31,7 +31,7 @@ public class ToDoStepDef {
     }
 
     @Before
-    public void setUp(Scenario scenario) {
+    public void setUp() {
         loggerUtil.configureLogging();
         LOGGER.info("-------Session Started-------");
     }

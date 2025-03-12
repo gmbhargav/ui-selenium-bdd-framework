@@ -59,7 +59,7 @@ public class MvcTodoPage {
                 flag = true;
             }
         } catch (Exception e) {
-            LOGGER.error("Exception {} while adding task {}", e.toString(), task);
+            LOGGER.error("Exception {} while adding task {}", e, task);
         }
         return flag;
     }
@@ -80,7 +80,7 @@ public class MvcTodoPage {
                 }
             }
         } catch (Exception e) {
-            LOGGER.error("Exception {} while verifying task {}", e.toString(), task);
+            LOGGER.error("Exception {} while verifying task {}", e, task);
         }
         return flag;
     }
@@ -92,7 +92,7 @@ public class MvcTodoPage {
             this.driver.findElement(By.xpath(locator)).click();
             flag = true;
         } catch (Exception e) {
-            LOGGER.error("Exception {} while selecting filter {}", e.toString(), filter);
+            LOGGER.error("Exception {} while selecting filter {}", e, filter);
         }
         return flag;
     }
@@ -104,7 +104,7 @@ public class MvcTodoPage {
             this.driver.findElement(By.xpath(locator)).click();
             flag = true;
         } catch (Exception e) {
-            LOGGER.error("Exception {} while completing task {}", e.toString(), task);
+            LOGGER.error("Exception {} while completing task {}", e, task);
         }
         return flag;
     }
@@ -124,7 +124,7 @@ public class MvcTodoPage {
             inputRenameTask.sendKeys(Keys.ENTER);
             flag = true;
         } catch (Exception e) {
-            LOGGER.error("Exception {} while renaming task {}", e.toString(), task);
+            LOGGER.error("Exception {} while renaming task {}", e, task);
         }
         return flag;
     }
@@ -136,7 +136,7 @@ public class MvcTodoPage {
             WebElement element = this.driver.findElement(By.xpath(locator));
             return waitTillElementIsPresent(element);
         } catch (Exception e) {
-            LOGGER.error("Exception {} while verifying task {}", e.toString(), task);
+            LOGGER.error("Exception {} while verifying task {}", e, task);
         }
         return flag;
     }
@@ -161,7 +161,7 @@ public class MvcTodoPage {
             btnClearCompleted.click();
             flag = true;
         } catch (Exception e) {
-            LOGGER.error("Exception {} clearing completed tasks", e.toString());
+            LOGGER.error("Exception {} clearing completed tasks", e);
         }
         return flag;
     }
@@ -186,7 +186,7 @@ public class MvcTodoPage {
             btnMarkAllCompleted.click();
             flag = true;
         } catch (Exception e) {
-            LOGGER.error("Exception {} marking all tasks as completed", e.toString());
+            LOGGER.error("Exception {} marking all tasks as completed", e);
         }
         return flag;
     }
@@ -204,7 +204,7 @@ public class MvcTodoPage {
                 }
             }
         } catch (Exception e) {
-            LOGGER.error("Exception {} while verifying task {}", e.toString());
+            LOGGER.error("Exception {} while verifying task", e);
         }
         return flag;
     }
