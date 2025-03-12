@@ -1,0 +1,1760 @@
+2025-03-11 17:53:57  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 17:54:13  [Browsers] (main:) -------Execution Started-------
+2025-03-11 17:57:25  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 17:57:28  [Browsers] (main:) -------Execution Started-------
+2025-03-11 17:57:57  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 17:57:59  [Browsers] (main:) -------Execution Started-------
+2025-03-11 18:01:01  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 18:01:05  [Browsers] (main:) -------Execution Started-------
+2025-03-11 18:16:36  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 18:16:39  [Browsers] (main:) -------Execution Started-------
+2025-03-11 20:52:31  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 20:52:35  [Browsers] (main:) -------Execution Started-------
+2025-03-11 20:57:04  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 20:57:06  [Browsers] (main:) -------Execution Started-------
+2025-03-11 20:57:38  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 20:57:39  [Browsers] (main:) -------Execution Started-------
+2025-03-11 20:57:40  [ToDoStepDef] (main:) ------- Execution Started-------
+2025-03-11 20:57:40  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 20:57:40  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist/***
+2025-03-11 20:58:11  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='todo-count']/strong"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4bf019f92684442b6dcb40233255ff8f, findElement {value=//span[@class='todo-count']/strong, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60254}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60254/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bf019f92684442b6dcb40233255ff8f while adding task Create Repo
+2025-03-11 20:58:11  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 20:58:11  [ToDoStepDef] (main:) ------- Execution Started-------
+2025-03-11 20:58:11  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 20:58:11  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist/***
+2025-03-11 20:58:42  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='todo-count']/strong"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4bf019f92684442b6dcb40233255ff8f, findElement {value=//span[@class='todo-count']/strong, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60254}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60254/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bf019f92684442b6dcb40233255ff8f while adding task Active Task
+2025-03-11 20:58:42  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 20:58:42  [ToDoStepDef] (main:) ------- Execution Started-------
+2025-03-11 20:58:42  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 20:58:42  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist/***
+2025-03-11 21:02:23  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:02:26  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:10:00  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:10:02  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:10:13  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:10:15  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:10:16  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:10:16  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:10:47  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='todo-count']/strong"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [62e3d015ee57e214a0a92b0df1ffb966, findElement {using=xpath, value=//span[@class='todo-count']/strong}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60897}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60897/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62e3d015ee57e214a0a92b0df1ffb966 while adding task Create Repo
+2025-03-11 21:10:47  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 21:17:56  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:17:59  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:18:00  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:18:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:18:03  [MvcTodoPage] (main:) Exception java.lang.NumberFormatException: For input string: "1 item left!" while adding task Create Repo
+2025-03-11 21:18:03  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 21:23:15  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:23:18  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:23:18  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:23:18  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:23:19  [MvcTodoPage] (main:) Task 1 item left! added
+2025-03-11 21:23:19  [MvcTodoPage] (main:) Items count
+2025-03-11 21:23:19  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-11 21:23:20  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 21:26:44  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:26:46  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:26:47  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:26:47  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:26:47  [MvcTodoPage] (main:) Task 1 item left! added
+2025-03-11 21:26:47  [MvcTodoPage] (main:) Items count 1 
+2025-03-11 21:26:47  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-11 21:26:48  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 21:40:57  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:41:00  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:41:01  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:41:01  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:41:02  [MvcTodoPage] (main:) Task 1 item left! added
+2025-03-11 21:41:02  [MvcTodoPage] (main:) Items count 1 
+2025-03-11 21:41:02  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-11 21:41:02  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-11 21:41:02  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-11 21:41:02  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-11 21:41:02  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-11 21:41:02  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-11 21:41:02  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-11 21:41:03  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 21:41:44  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:41:47  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:41:47  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:41:47  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:41:48  [MvcTodoPage] (main:) Task 1 item left! added
+2025-03-11 21:41:48  [MvcTodoPage] (main:) Items count 1 
+2025-03-11 21:41:48  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-11 21:41:48  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-11 21:41:48  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-11 21:41:48  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-11 21:41:48  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-11 21:41:48  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-11 21:41:48  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-11 21:41:49  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 21:41:49  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:41:49  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:41:49  [MvcTodoPage] (main:) Task 1 item left! added
+2025-03-11 21:41:49  [MvcTodoPage] (main:) Items count 1 
+2025-03-11 21:41:49  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-11 21:41:49  [MvcTodoPage] (main:) Task 2 items left! added
+2025-03-11 21:41:49  [MvcTodoPage] (main:) Items count 2 
+2025-03-11 21:41:49  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-11 21:41:49  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-11 21:41:49  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 21:56:30  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:56:33  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:56:34  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:56:34  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:56:35  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-11 21:56:35  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-11 21:56:35  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-11 21:56:35  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-11 21:56:35  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-11 21:56:35  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-11 21:56:35  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-11 21:56:35  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 21:56:35  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:56:35  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:56:36  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-11 21:56:36  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-11 21:56:36  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-11 21:56:36  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-11 21:56:36  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 21:56:49  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 21:56:51  [Browsers] (main:) -------Execution Started-------
+2025-03-11 21:56:52  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 21:56:52  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 21:56:53  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-11 21:56:53  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 21:56:53  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-11 21:56:53  [MvcTodoPage] (main:) Exception java.lang.NullPointerException while verifying task Completed Task
+2025-03-11 21:56:53  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:04:21  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:04:23  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:04:23  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:04:23  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:04:24  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-11 22:04:24  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 22:04:24  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-11 22:04:24  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-11 22:04:25  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-11 22:04:25  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-11 22:04:25  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-11 22:04:25  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-11 22:04:25  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-11 22:04:25  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-11 22:04:25  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:04:42  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:04:44  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:04:44  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:04:44  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:04:45  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-11 22:04:45  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-11 22:04:45  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-11 22:04:45  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:08:55  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:08:57  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:08:58  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:08:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:08:59  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 22:08:59  [MvcTodoPage] (main:) items left count 1
+2025-03-11 22:08:59  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-11 22:08:59  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-11 22:08:59  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-11 22:08:59  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-11 22:08:59  [MvcTodoPage] (main:) items left count 0
+2025-03-11 22:09:00  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:12:44  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:12:46  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:12:46  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:12:46  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:12:48  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 22:12:48  [MvcTodoPage] (main:) items left count 1
+2025-03-11 22:12:48  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-11 22:12:48  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-11 22:12:48  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-11 22:12:48  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-11 22:12:48  [MvcTodoPage] (main:) items left count 0
+2025-03-11 22:12:48  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-11 22:12:48  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:13:15  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:13:16  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:13:17  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:13:17  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:13:18  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:13:18  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 22:13:18  [MvcTodoPage] (main:) items left count 1
+2025-03-11 22:13:18  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-11 22:13:18  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 22:13:18  [MvcTodoPage] (main:) double clicked
+2025-03-11 22:13:18  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@data-testid='todo editing']//input[@class='edit']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e2cb29aec19e778f497b39aa3185cc2e, findElement {using=xpath, value=//li[@data-testid='todo editing']//input[@class='edit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60212}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60212/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e2cb29aec19e778f497b39aa3185cc2e while renaming task Rename Task
+2025-03-11 22:13:19  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:23:56  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:23:59  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:24:00  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:24:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:24:01  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:24:01  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 22:24:01  [MvcTodoPage] (main:) items left count 1
+2025-03-11 22:24:01  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-11 22:24:01  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 22:24:06  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-11 22:24:06  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[contains(@data-testid,'todo')]//input[@class='edit']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2efc26e2ee7e1e53e5371de280dd41f, findElement {using=xpath, value=//li[contains(@data-testid,'todo')]//input[@class='edit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62913}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:62913/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2efc26e2ee7e1e53e5371de280dd41f while renaming task Rename Task
+2025-03-11 22:24:07  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:29:50  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:29:52  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:29:53  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:29:53  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:29:53  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:29:54  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 22:29:54  [MvcTodoPage] (main:) items left count 1
+2025-03-11 22:29:54  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-11 22:29:54  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 22:29:54  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-11 22:29:54  [MvcTodoPage] (main:) Exception org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cb21e43270aa35d7187d05c4304da523, sendKeysToElement {id=f.0A968DEE61B97DAF4B75E7D14B292C8A.d.3A83A3BFBB0D675B761901A327E4BBCE.e.28, value=[Ljava.lang.CharSequence;@24097e9b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64365/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (cb21e43270aa35d7187d05c4304da523)] -> xpath: //li[@data-testid='todo-item']//div[@class='input-container']]
+Session ID: cb21e43270aa35d7187d05c4304da523 while renaming task Rename Task
+2025-03-11 22:29:55  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:41:37  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:41:40  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:41:41  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:41:41  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:41:41  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:41:42  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 22:41:42  [MvcTodoPage] (main:) items left count 1
+2025-03-11 22:41:42  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-11 22:41:42  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 22:41:45  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-11 22:41:46  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-11 22:41:46  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-11 22:41:46  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-11 22:41:46  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-11 22:41:46  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-11 22:41:46  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-11 22:41:47  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:42:27  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:42:29  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:42:30  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:42:30  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:42:30  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:42:31  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 22:42:31  [MvcTodoPage] (main:) items left count 1
+2025-03-11 22:42:31  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-11 22:42:31  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-11 22:42:31  [MvcTodoPage] (main:) items left count 2
+2025-03-11 22:42:31  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-11 22:42:31  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 22:43:01  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Mark all as complete']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f85b14fa0b500f6def3dd0dcf5a5097a, findElement {using=xpath, value=//label[text()='Mark all as complete']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51148}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51148/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f85b14fa0b500f6def3dd0dcf5a5097a marking all tasks as completed
+2025-03-11 22:43:02  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:45:41  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:45:44  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:45:44  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:45:44  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:45:45  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:45:45  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 22:45:45  [MvcTodoPage] (main:) items left count 1
+2025-03-11 22:45:45  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-11 22:45:46  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-11 22:45:46  [MvcTodoPage] (main:) items left count 2
+2025-03-11 22:45:46  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-11 22:45:46  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 22:46:16  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-11 22:46:16  [MvcTodoPage] (main:) Exception java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0 while verifying task {}
+2025-03-11 22:46:16  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 22:58:50  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 22:58:53  [Browsers] (main:) -------Execution Started-------
+2025-03-11 22:58:54  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 22:58:54  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:58:55  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 22:58:55  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 22:58:55  [MvcTodoPage] (main:) items left count 1
+2025-03-11 22:58:55  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-11 22:58:55  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-11 22:58:55  [MvcTodoPage] (main:) items left count 2
+2025-03-11 22:58:55  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-11 22:58:55  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 22:59:26  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-11 22:59:26  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 23:01:49  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 23:01:51  [Browsers] (main:) -------Execution Started-------
+2025-03-11 23:01:52  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 23:01:52  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 23:01:52  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 23:01:53  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 23:01:53  [MvcTodoPage] (main:) items left count 1
+2025-03-11 23:01:53  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-11 23:01:53  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-11 23:01:53  [MvcTodoPage] (main:) items left count 2
+2025-03-11 23:01:53  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-11 23:01:53  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-11 23:02:24  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-11 23:02:24  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-11 23:02:24  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-11 23:02:24  [MvcTodoPage] (main:) items left count 0
+2025-03-11 23:02:24  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-11 23:02:25  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 23:02:44  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 23:02:46  [Browsers] (main:) -------Execution Started-------
+2025-03-11 23:02:47  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 23:02:47  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 23:02:48  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8409c0000c8002ed400ec2221f78f61c, findElement {using=xpath, value=//ul[@class='filters']//a[text()='All']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56213}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56213/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8409c0000c8002ed400ec2221f78f61c while selecting filter All
+2025-03-11 23:02:49  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 23:03:30  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 23:03:32  [Browsers] (main:) -------Execution Started-------
+2025-03-11 23:03:33  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 23:03:33  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 23:03:33  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [851b8addcff8bbe89dc56d74236821f2, findElement {value=//ul[@class='filters']//a[text()='All'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56425}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56425/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 851b8addcff8bbe89dc56d74236821f2 while selecting filter All
+2025-03-11 23:03:34  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-11 23:04:07  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-11 23:04:10  [Browsers] (main:) -------Execution Started-------
+2025-03-11 23:04:10  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-11 23:04:10  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-11 23:04:11  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-11 23:04:11  [MvcTodoPage] (main:) items left count 1
+2025-03-11 23:04:11  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-11 23:04:11  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-11 23:04:11  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-11 23:04:11  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-11 23:04:11  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [548a9d67dcac28563dc0e8178bb134fd, findElement {using=xpath, value=//ul[@class='filters']//a[text()='All']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56608}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56608/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 548a9d67dcac28563dc0e8178bb134fd while verifying task Clear Completed Task
+2025-03-11 23:04:11  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-11 23:04:11  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [548a9d67dcac28563dc0e8178bb134fd, findElement {using=xpath, value=//ul[@class='filters']//a[text()='Completed']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56608}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56608/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 548a9d67dcac28563dc0e8178bb134fd while verifying task Clear Completed Task
+2025-03-11 23:04:11  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-11 23:04:12  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:16:28  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 09:16:30  [Browsers] (main:) -------Execution Started-------
+2025-03-12 09:16:31  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:16:31  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:16:32  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:16:32  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:16:32  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 09:16:32  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:16:32  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:16:32  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 09:16:32  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:16:32  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:16:32  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 09:16:32  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:16:32  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:16:32  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:16:33  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:16:33  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:16:33  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 09:16:33  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:16:33  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:16:33  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 09:16:33  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 09:16:33  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:16:33  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:16:33  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 09:16:33  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:16:33  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:16:33  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:16:33  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:16:33  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:16:33  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 09:16:33  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:16:33  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:16:34  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:16:34  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:16:34  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:16:34  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 09:16:34  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:16:34  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:16:34  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 09:16:34  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:16:34  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:16:34  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:16:34  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:16:34  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:16:34  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 09:16:34  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 09:16:34  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 09:16:34  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:16:34  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:16:34  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:16:35  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:16:35  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:16:35  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:16:35  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:16:35  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:16:35  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:16:35  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 09:16:35  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:16:35  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 09:16:35  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 09:16:36  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:16:36  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 09:16:36  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 09:16:36  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:16:36  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 09:16:36  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:16:36  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:16:36  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:16:36  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:16:36  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:16:36  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:16:36  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 09:16:36  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:16:36  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:16:36  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 09:16:36  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:17:07  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 09:17:07  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 09:17:07  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:17:07  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:17:07  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:17:08  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:17:08  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:17:08  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:17:08  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:17:08  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:17:08  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 09:17:08  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 09:17:08  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 09:17:08  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 09:17:08  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f23d615f98315aad49baa112dc40755c, findElement {using=xpath, value=//ul[@class='filters']//a[text()='All']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49696}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49696/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f23d615f98315aad49baa112dc40755c while verifying task Clear Completed Task
+2025-03-12 09:17:08  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 09:17:08  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f23d615f98315aad49baa112dc40755c, findElement {using=xpath, value=//ul[@class='filters']//a[text()='Completed']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49696}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49696/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f23d615f98315aad49baa112dc40755c while verifying task Clear Completed Task
+2025-03-12 09:17:08  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 09:17:09  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:19:53  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 09:19:55  [Browsers] (main:) -------Execution Started-------
+2025-03-12 09:19:56  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:19:56  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:19:56  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:19:56  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:19:56  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 09:19:56  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:19:56  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:19:56  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 09:19:57  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:19:57  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:19:57  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 09:19:57  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:19:57  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:19:57  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:19:57  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:19:57  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:19:57  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 09:19:57  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:19:57  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:19:57  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 09:19:57  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 09:19:57  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:19:57  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:19:57  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 09:19:58  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:19:58  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:19:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:19:58  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:19:58  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:19:58  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 09:19:58  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:19:58  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:19:58  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:19:58  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:19:58  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:19:58  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 09:19:58  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:19:58  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:19:58  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 09:19:58  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:19:58  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:19:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:19:58  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:19:58  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:19:58  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 09:19:59  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 09:19:59  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 09:19:59  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:19:59  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:19:59  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:19:59  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:19:59  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:19:59  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:19:59  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:19:59  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:19:59  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:19:59  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 09:19:59  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:19:59  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 09:20:00  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 09:20:00  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:20:00  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 09:20:00  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 09:20:00  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:20:00  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 09:20:00  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:20:00  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:20:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:20:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:20:00  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:20:00  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:20:00  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 09:20:00  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:20:00  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:20:00  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 09:20:00  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:20:31  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 09:20:31  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 09:20:31  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:20:31  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:20:31  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:20:31  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:20:31  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:20:31  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:20:31  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:20:31  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:20:31  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 09:20:31  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 09:20:31  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 09:20:32  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 09:20:32  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [54f6ebff906cc3de3903333770f68790, findElement {using=xpath, value=//ul[@class='filters']//a[text()='All']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49723}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49723/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 54f6ebff906cc3de3903333770f68790 while verifying task Clear Completed Task
+2025-03-12 09:20:32  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 09:20:32  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [54f6ebff906cc3de3903333770f68790, findElement {using=xpath, value=//ul[@class='filters']//a[text()='Completed']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49723}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49723/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 54f6ebff906cc3de3903333770f68790 while verifying task Clear Completed Task
+2025-03-12 09:20:32  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 09:20:32  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:22:19  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 09:22:21  [Browsers] (main:) -------Execution Started-------
+2025-03-12 09:22:22  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:22:22  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:22:23  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:22:23  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:22:23  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 09:22:23  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:22:23  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:22:23  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 09:22:23  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:22:23  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:22:23  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 09:22:23  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:22:23  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:22:23  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:22:24  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:22:24  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:22:24  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 09:22:24  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:22:24  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:22:24  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 09:22:24  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 09:22:24  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:22:24  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:22:24  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 09:22:24  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:22:24  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:22:24  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:22:24  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:22:24  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:22:24  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 09:22:24  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:22:24  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:22:24  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:22:25  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:22:25  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:22:25  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 09:22:25  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:22:25  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:22:25  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 09:22:25  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:22:25  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:22:25  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:22:25  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:22:25  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:22:25  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 09:22:25  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 09:22:25  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 09:22:25  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:22:25  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:22:25  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:22:26  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:22:26  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:22:26  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:22:26  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:22:26  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:22:26  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:22:26  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 09:22:26  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:22:26  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 09:22:26  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 09:22:26  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:22:26  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 09:22:26  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 09:22:26  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:22:26  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 09:22:27  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:22:27  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:22:27  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:22:27  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:22:27  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:22:27  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:22:27  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 09:22:27  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:22:27  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:22:27  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 09:22:27  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:22:57  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 09:22:57  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 09:22:57  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:22:57  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:22:57  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:22:58  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:22:58  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:22:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:22:58  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:22:58  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:22:58  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 09:22:58  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 09:22:58  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 09:22:58  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 09:22:58  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [81cf8ed1d6f2aa7bf70e165985a344e3, findElement {value=//ul[@class='filters']//a[text()='All'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49744}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49744/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 81cf8ed1d6f2aa7bf70e165985a344e3 while verifying task Clear Completed Task
+2025-03-12 09:22:58  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 09:22:58  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [81cf8ed1d6f2aa7bf70e165985a344e3, findElement {value=//ul[@class='filters']//a[text()='Completed'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49744}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49744/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 81cf8ed1d6f2aa7bf70e165985a344e3 while verifying task Clear Completed Task
+2025-03-12 09:22:58  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 09:22:58  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:35:52  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 09:35:54  [Browsers] (main:) -------Execution Started-------
+2025-03-12 09:35:55  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:35:55  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:35:56  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:35:56  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:35:56  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 09:35:56  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:35:56  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:35:56  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 09:35:56  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:35:56  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:35:56  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 09:35:57  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:35:57  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:35:57  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:35:57  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:35:57  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:35:57  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 09:35:57  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:35:57  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:35:57  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 09:35:57  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 09:35:57  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:35:57  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:35:57  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 09:35:57  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:35:57  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:35:57  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:35:58  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:35:58  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:35:58  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 09:35:58  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:35:58  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:35:58  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:35:58  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:35:58  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:35:58  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 09:35:58  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:35:58  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:35:58  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 09:35:58  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:35:58  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:35:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:35:58  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:35:58  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:35:58  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 09:35:58  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 09:35:59  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 09:35:59  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:35:59  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:35:59  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:35:59  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:35:59  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:35:59  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:35:59  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:35:59  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:35:59  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:35:59  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 09:35:59  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:35:59  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 09:36:00  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 09:36:00  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:36:00  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 09:36:00  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 09:36:00  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:36:00  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 09:36:00  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:36:00  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:36:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:36:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:36:00  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:36:00  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:36:00  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 09:36:00  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:36:00  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:36:00  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 09:36:01  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:36:31  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 09:36:31  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 09:36:31  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:36:31  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:36:31  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:36:31  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:36:31  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:36:31  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:36:31  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:36:31  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:36:31  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 09:36:31  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 09:36:31  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 09:36:31  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 09:36:32  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [585a6f38195b65adcddb88c5057cd9fb, findElement {using=xpath, value=//ul[@class='filters']//a[text()='All']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49805}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49805/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 585a6f38195b65adcddb88c5057cd9fb while verifying task Clear Completed Task
+2025-03-12 09:36:32  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 09:36:32  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [585a6f38195b65adcddb88c5057cd9fb, findElement {using=xpath, value=//ul[@class='filters']//a[text()='Completed']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49805}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49805/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 585a6f38195b65adcddb88c5057cd9fb while verifying task Clear Completed Task
+2025-03-12 09:36:32  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 09:36:32  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:44:58  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 09:45:00  [Browsers] (main:) -------Execution Started-------
+2025-03-12 09:45:01  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:45:01  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:45:03  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:45:03  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:45:03  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 09:45:03  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:45:03  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:45:03  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 09:45:03  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:45:03  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:45:03  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 09:45:03  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:45:03  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:45:03  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:45:04  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:45:04  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:45:04  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 09:45:04  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:45:04  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:45:04  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 09:45:04  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 09:45:04  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:45:04  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:45:04  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 09:45:04  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:45:04  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:45:04  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:45:04  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:45:04  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:45:04  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 09:45:04  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:45:05  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:45:05  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:45:05  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:45:05  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:45:05  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 09:45:05  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:45:05  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:45:05  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 09:45:05  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:45:05  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:45:05  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:45:05  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:45:05  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:45:05  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 09:45:05  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 09:45:05  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 09:45:05  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:45:05  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:45:05  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:45:06  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:45:06  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:45:06  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:45:06  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:45:06  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:45:06  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:45:06  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 09:45:06  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:45:07  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 09:45:07  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 09:45:07  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:45:07  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 09:45:07  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 09:45:07  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:45:07  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 09:45:07  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:45:07  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:45:07  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:45:07  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:45:08  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:45:08  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:45:08  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 09:45:08  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:45:08  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:45:08  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 09:45:08  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:45:38  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 09:45:38  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 09:45:38  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:45:38  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:45:38  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:45:38  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:45:38  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:45:38  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:45:39  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:45:39  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:45:39  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 09:45:39  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 09:45:39  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 09:45:39  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 09:45:39  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [93192ad8779a063692909f8e446a2414, findElement {using=xpath, value=//ul[@class='filters']//a[text()='All']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49878}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49878/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 93192ad8779a063692909f8e446a2414 while verifying task Clear Completed Task
+2025-03-12 09:45:39  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 09:45:39  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [93192ad8779a063692909f8e446a2414, findElement {using=xpath, value=//ul[@class='filters']//a[text()='Completed']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49878}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49878/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 93192ad8779a063692909f8e446a2414 while verifying task Clear Completed Task
+2025-03-12 09:45:39  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 09:45:39  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:49:52  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 09:49:54  [Browsers] (main:) -------Execution Started-------
+2025-03-12 09:49:55  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:49:55  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:49:55  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:49:55  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:49:55  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 09:49:56  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:49:56  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:49:56  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 09:49:56  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:49:56  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:49:56  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 09:49:56  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:49:56  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:49:56  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:49:56  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:49:56  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:49:56  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 09:49:56  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:49:56  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:49:56  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 09:49:56  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 09:49:56  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:49:56  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:49:56  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 09:49:57  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:49:57  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:49:57  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:49:57  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:49:57  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:49:57  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 09:49:57  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:49:57  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:49:57  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:49:57  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:49:57  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:49:57  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 09:49:57  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:49:57  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:49:57  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 09:49:58  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:49:58  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:49:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:49:58  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:49:58  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:49:58  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 09:49:58  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 09:49:58  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 09:49:58  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:49:58  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:49:58  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:49:58  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:49:58  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:49:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:49:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:49:58  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:49:58  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:49:58  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 09:49:59  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:49:59  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 09:49:59  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 09:49:59  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:49:59  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 09:49:59  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 09:49:59  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:49:59  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 09:49:59  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:49:59  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:49:59  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:50:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:50:00  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:50:00  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:50:00  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 09:50:00  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:50:00  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:50:00  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 09:50:00  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:50:30  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 09:50:30  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 09:50:30  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:50:30  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:50:30  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:50:31  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:50:31  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:50:31  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:50:31  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:50:31  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:50:31  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 09:50:31  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 09:50:31  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 09:50:31  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 09:50:31  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6d658afac7f986481ea4f1680808c15b, findElement {value=//ul[@class='filters']//a[text()='All'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49897}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49897/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d658afac7f986481ea4f1680808c15b while verifying task Clear Completed Task
+2025-03-12 09:50:31  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 09:50:31  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6d658afac7f986481ea4f1680808c15b, findElement {value=//ul[@class='filters']//a[text()='Completed'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49897}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49897/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d658afac7f986481ea4f1680808c15b while verifying task Clear Completed Task
+2025-03-12 09:50:31  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 09:50:31  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:53:29  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 09:53:31  [Browsers] (main:) -------Execution Started-------
+2025-03-12 09:53:32  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:53:32  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:53:33  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:53:33  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:53:33  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 09:53:33  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:53:33  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:53:33  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 09:53:33  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 09:53:33  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 09:53:33  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 09:53:33  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:53:33  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:53:33  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:53:33  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:53:33  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:53:33  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 09:53:33  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:53:33  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:53:33  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 09:53:34  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 09:53:34  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:53:34  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:53:34  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 09:53:34  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:53:34  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:53:34  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:53:34  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:53:34  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:53:34  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 09:53:34  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:53:34  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:53:34  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 09:53:34  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:53:34  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:53:34  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 09:53:34  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 09:53:34  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 09:53:34  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 09:53:35  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:53:35  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:53:35  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:53:35  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:53:35  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:53:35  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 09:53:35  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 09:53:35  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 09:53:35  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:53:35  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:53:35  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:53:35  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:53:35  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:53:35  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:53:35  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:53:36  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:53:36  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:53:36  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 09:53:36  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:53:36  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 09:53:36  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 09:53:36  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:53:36  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 09:53:36  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 09:53:36  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 09:53:36  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 09:53:37  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:53:37  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:53:37  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:53:37  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:53:37  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:53:37  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:53:37  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 09:53:37  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 09:53:37  [MvcTodoPage] (main:) items left count 2
+2025-03-12 09:53:37  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 09:53:37  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 09:54:07  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 09:54:07  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 09:54:07  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 09:54:07  [MvcTodoPage] (main:) items left count 0
+2025-03-12 09:54:07  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 09:54:08  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 09:54:08  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 09:54:08  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 09:54:08  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 09:54:08  [MvcTodoPage] (main:) items left count 1
+2025-03-12 09:54:08  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 09:54:08  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 09:54:08  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 09:54:08  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 09:54:08  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18bf611eb2b013c84be8ccd6e1ca460b, findElement {using=xpath, value=//ul[@class='filters']//a[text()='All']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49918/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18bf611eb2b013c84be8ccd6e1ca460b while verifying task Clear Completed Task
+2025-03-12 09:54:08  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 09:54:08  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18bf611eb2b013c84be8ccd6e1ca460b, findElement {using=xpath, value=//ul[@class='filters']//a[text()='Completed']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49918/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18bf611eb2b013c84be8ccd6e1ca460b while verifying task Clear Completed Task
+2025-03-12 09:54:08  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 09:54:08  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:06:26  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 10:06:28  [Browsers] (main:) -------Execution Started-------
+2025-03-12 10:06:28  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:06:28  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:06:30  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:06:30  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:06:30  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 10:06:30  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 10:06:30  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 10:06:30  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 10:06:30  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 10:06:30  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 10:06:30  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 10:06:30  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:06:30  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:06:30  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:06:30  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:06:30  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:06:30  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 10:06:31  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 10:06:31  [MvcTodoPage] (main:) items left count 2
+2025-03-12 10:06:31  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 10:06:31  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 10:06:31  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 10:06:31  [MvcTodoPage] (main:) items left count 2
+2025-03-12 10:06:31  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 10:06:31  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:06:31  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:06:31  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:06:31  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:06:31  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:06:31  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 10:06:31  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 10:06:31  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 10:06:31  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 10:06:31  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 10:06:31  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 10:06:31  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 10:06:31  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 10:06:31  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 10:06:31  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 10:06:32  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:06:32  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:06:32  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:06:32  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:06:32  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:06:32  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 10:06:32  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 10:06:32  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 10:06:32  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 10:06:32  [MvcTodoPage] (main:) items left count 0
+2025-03-12 10:06:32  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 10:06:32  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:06:32  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:06:32  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:06:33  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:06:33  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:06:33  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:06:33  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 10:06:33  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 10:06:33  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 10:06:33  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 10:06:33  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 10:06:33  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 10:06:33  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 10:06:33  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 10:06:33  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 10:06:34  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:06:34  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:06:34  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:06:34  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:06:34  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:06:34  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:06:34  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 10:06:34  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 10:06:34  [MvcTodoPage] (main:) items left count 2
+2025-03-12 10:06:34  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 10:06:34  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 10:07:04  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 10:07:04  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 10:07:04  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 10:07:04  [MvcTodoPage] (main:) items left count 0
+2025-03-12 10:07:04  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 10:07:05  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:07:05  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:07:05  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:07:05  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:07:05  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:07:05  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 10:07:05  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 10:07:05  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 10:07:05  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 10:07:05  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6982980416056886eb2f9d8cc68b9fb5, findElement {value=//ul[@class='filters']//a[text()='All'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49951}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49951/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6982980416056886eb2f9d8cc68b9fb5 while verifying task Clear Completed Task
+2025-03-12 10:07:05  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 10:07:05  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6982980416056886eb2f9d8cc68b9fb5, findElement {value=//ul[@class='filters']//a[text()='Completed'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49951}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49951/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6982980416056886eb2f9d8cc68b9fb5 while verifying task Clear Completed Task
+2025-03-12 10:07:05  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 10:07:05  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:09:37  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 10:09:39  [Browsers] (main:) -------Execution Started-------
+2025-03-12 10:09:40  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:09:40  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:09:40  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:09:40  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:09:40  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 10:09:40  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 10:09:40  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 10:09:40  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 10:09:41  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 10:09:41  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 10:09:41  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 10:09:41  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:09:41  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:09:41  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:09:41  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:09:41  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:09:41  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 10:09:41  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 10:09:41  [MvcTodoPage] (main:) items left count 2
+2025-03-12 10:09:41  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 10:09:41  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 10:09:41  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 10:09:41  [MvcTodoPage] (main:) items left count 2
+2025-03-12 10:09:41  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 10:09:42  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:09:42  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:09:42  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:09:42  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:09:42  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:09:42  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 10:09:42  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 10:09:42  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 10:09:42  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 10:09:42  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 10:09:42  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 10:09:42  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 10:09:42  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 10:09:42  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 10:09:42  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 10:09:42  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:09:42  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:09:42  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:09:43  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:09:43  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:09:43  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 10:09:43  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 10:09:43  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 10:09:43  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 10:09:43  [MvcTodoPage] (main:) items left count 0
+2025-03-12 10:09:43  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 10:09:43  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:09:43  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:09:43  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:09:43  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:09:43  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:09:43  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:09:43  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 10:09:43  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 10:09:43  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 10:09:44  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 10:09:44  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 10:09:44  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 10:09:44  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 10:09:44  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 10:09:44  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 10:09:44  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:09:44  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:09:44  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:09:44  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:09:44  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:09:44  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:09:44  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 10:09:45  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 10:09:45  [MvcTodoPage] (main:) items left count 2
+2025-03-12 10:09:45  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 10:09:45  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 10:10:15  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 10:10:15  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 10:10:15  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 10:10:15  [MvcTodoPage] (main:) items left count 0
+2025-03-12 10:10:15  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 10:10:15  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 10:10:15  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 10:10:15  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 10:10:15  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 10:10:15  [MvcTodoPage] (main:) items left count 1
+2025-03-12 10:10:15  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 10:10:15  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 10:10:16  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 10:10:16  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 10:10:16  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f5423513c8389602035285985a80be34, findElement {using=xpath, value=//ul[@class='filters']//a[text()='All']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49971}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49971/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5423513c8389602035285985a80be34 while verifying task Clear Completed Task
+2025-03-12 10:10:16  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 10:10:16  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f5423513c8389602035285985a80be34, findElement {using=xpath, value=//ul[@class='filters']//a[text()='Completed']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49971}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49971/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5423513c8389602035285985a80be34 while verifying task Clear Completed Task
+2025-03-12 10:10:16  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 10:10:16  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:45:56  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 11:45:59  [Browsers] (main:) -------Execution Started-------
+2025-03-12 11:45:59  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:45:59  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:46:00  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:46:00  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:46:00  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 11:46:00  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 11:46:00  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 11:46:00  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 11:46:00  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 11:46:00  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 11:46:00  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 11:46:01  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:46:01  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:46:01  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:46:01  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:46:01  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:46:01  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 11:46:01  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 11:46:01  [MvcTodoPage] (main:) items left count 2
+2025-03-12 11:46:01  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 11:46:01  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 11:46:01  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 11:46:01  [MvcTodoPage] (main:) items left count 2
+2025-03-12 11:46:01  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 11:46:02  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:46:02  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:46:02  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:46:02  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:46:02  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:46:02  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 11:46:02  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 11:46:02  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 11:46:02  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 11:46:02  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 11:46:02  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 11:46:02  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 11:46:02  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 11:46:02  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 11:46:02  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 11:46:02  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:46:02  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:46:02  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:46:03  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:46:03  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:46:03  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 11:46:03  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 11:46:03  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 11:46:03  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 11:46:03  [MvcTodoPage] (main:) items left count 0
+2025-03-12 11:46:03  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 11:46:03  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:46:03  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:46:03  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:46:03  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:46:03  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:46:03  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:46:03  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 11:46:03  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 11:46:03  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 11:46:04  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 11:46:04  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 11:46:04  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 11:46:04  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 11:46:04  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 11:46:04  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 11:46:04  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:46:04  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:46:04  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:46:04  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:46:04  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:46:04  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:46:04  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 11:46:04  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 11:46:04  [MvcTodoPage] (main:) items left count 2
+2025-03-12 11:46:04  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 11:46:05  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 11:46:35  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 11:46:35  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 11:46:35  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 11:46:35  [MvcTodoPage] (main:) items left count 0
+2025-03-12 11:46:35  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 11:46:35  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:46:35  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:46:35  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:46:35  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:46:35  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:46:35  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 11:46:35  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 11:46:35  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 11:46:36  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 11:46:36  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2ef66af8e751fa668b091b1e97b5c9c, findElement {value=//ul[@class='filters']//a[text()='All'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50114}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50114/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2ef66af8e751fa668b091b1e97b5c9c while verifying task Clear Completed Task
+2025-03-12 11:46:36  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 11:46:36  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2ef66af8e751fa668b091b1e97b5c9c, findElement {value=//ul[@class='filters']//a[text()='Completed'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50114}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50114/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2ef66af8e751fa668b091b1e97b5c9c while verifying task Clear Completed Task
+2025-03-12 11:46:36  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 11:46:36  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:54:55  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 11:54:57  [Browsers] (main:) -------Execution Started-------
+2025-03-12 11:54:58  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:54:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:54:59  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:54:59  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:54:59  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 11:54:59  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 11:54:59  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 11:54:59  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 11:54:59  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 11:54:59  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 11:54:59  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 11:55:00  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:55:00  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:55:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:55:00  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:55:00  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:55:00  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 11:55:00  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 11:55:00  [MvcTodoPage] (main:) items left count 2
+2025-03-12 11:55:00  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 11:55:00  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 11:55:00  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 11:55:00  [MvcTodoPage] (main:) items left count 2
+2025-03-12 11:55:00  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 11:55:01  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:55:01  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:55:01  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:55:01  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:55:01  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:55:01  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 11:55:01  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 11:55:01  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 11:55:01  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 11:55:01  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 11:55:01  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 11:55:01  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 11:55:01  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 11:55:01  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 11:55:01  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 11:55:02  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:55:02  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:55:02  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:55:02  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:55:02  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:55:02  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 11:55:02  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 11:55:02  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 11:55:02  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 11:55:02  [MvcTodoPage] (main:) items left count 0
+2025-03-12 11:55:02  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 11:55:02  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:55:02  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:55:02  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:55:02  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:55:02  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:55:02  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:55:02  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 11:55:03  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 11:55:03  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 11:55:03  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 11:55:03  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 11:55:03  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 11:55:03  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 11:55:03  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 11:55:03  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 11:55:03  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:55:04  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:55:04  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:55:04  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:55:04  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:55:04  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:55:04  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 11:55:04  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 11:55:04  [MvcTodoPage] (main:) items left count 2
+2025-03-12 11:55:04  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 11:55:04  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 11:55:34  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 11:55:34  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 11:55:34  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 11:55:34  [MvcTodoPage] (main:) items left count 0
+2025-03-12 11:55:34  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 11:55:35  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:55:35  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:55:35  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:55:35  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:55:35  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:55:35  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 11:55:35  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 11:55:35  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 11:55:35  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 11:55:35  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [594f32ac353f5ada1f7aadababa30e86, findElement {using=xpath, value=//ul[@class='filters']//a[text()='All']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50272}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50272/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 594f32ac353f5ada1f7aadababa30e86 while verifying task Clear Completed Task
+2025-03-12 11:55:35  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 11:55:35  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [594f32ac353f5ada1f7aadababa30e86, findElement {using=xpath, value=//ul[@class='filters']//a[text()='Completed']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50272}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50272/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 594f32ac353f5ada1f7aadababa30e86 while verifying task Clear Completed Task
+2025-03-12 11:55:35  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 11:55:35  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:57:55  [Browsers] (main:) ************Launching Chrome Browser**********
+2025-03-12 11:57:57  [Browsers] (main:) -------Execution Started-------
+2025-03-12 11:57:58  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:57:58  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:57:58  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:57:58  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:57:58  [ToDoStepDef] (main:) Task Create Repo added successfully
+2025-03-12 11:57:58  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 11:57:58  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 11:57:58  [ToDoStepDef] (main:) Task Create Repo displayed as expected under All filter
+2025-03-12 11:57:59  [MvcTodoPage] (main:) Actual Task name Create Repo 
+2025-03-12 11:57:59  [MvcTodoPage] (main:) Actual Task name Create Repo, expected task name Create Repo 
+2025-03-12 11:57:59  [ToDoStepDef] (main:) Task Create Repo displayed as expected under Active filter
+2025-03-12 11:57:59  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:57:59  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:57:59  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:57:59  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:57:59  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:57:59  [ToDoStepDef] (main:) Task Active Task added successfully
+2025-03-12 11:57:59  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 11:57:59  [MvcTodoPage] (main:) items left count 2
+2025-03-12 11:57:59  [ToDoStepDef] (main:) Task Active Task2 added successfully
+2025-03-12 11:57:59  [ToDoStepDef] (main:) Filter Active selected as expected 
+2025-03-12 11:57:59  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 11:57:59  [MvcTodoPage] (main:) items left count 2
+2025-03-12 11:57:59  [ToDoStepDef] (main:) Number of items left count matching expected 2 actual 2
+2025-03-12 11:58:00  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:58:00  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:58:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:58:00  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:58:00  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:58:00  [ToDoStepDef] (main:) Task Completed Task added successfully
+2025-03-12 11:58:00  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 11:58:00  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 11:58:00  [ToDoStepDef] (main:) Task Completed Task marked as completed as expected
+2025-03-12 11:58:00  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 11:58:00  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 11:58:00  [ToDoStepDef] (main:) Task Completed Task displayed as expected under Completed filter
+2025-03-12 11:58:00  [MvcTodoPage] (main:) Actual Task name Completed Task 
+2025-03-12 11:58:00  [MvcTodoPage] (main:) Actual Task name Completed Task, expected task name Completed Task 
+2025-03-12 11:58:00  [ToDoStepDef] (main:) Task Completed Task displayed as expected under All filter
+2025-03-12 11:58:00  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:58:00  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:58:00  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:58:01  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:58:01  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:58:01  [ToDoStepDef] (main:) Task Number of Items added successfully
+2025-03-12 11:58:01  [ToDoStepDef] (main:) Number of items left count displayed as expected 
+2025-03-12 11:58:01  [ToDoStepDef] (main:) Task Number of Items marked as completed as expected
+2025-03-12 11:58:01  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 11:58:01  [MvcTodoPage] (main:) items left count 0
+2025-03-12 11:58:01  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 11:58:01  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:58:01  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:58:01  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:58:01  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:58:01  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:58:01  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:58:01  [ToDoStepDef] (main:) Task Rename Task added successfully
+2025-03-12 11:58:01  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 11:58:01  [MvcTodoPage] (main:) double clicked on Rename Task 
+2025-03-12 11:58:02  [ToDoStepDef] (main:) Task Rename Task renamed as expected
+2025-03-12 11:58:02  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 11:58:02  [MvcTodoPage] (main:) Actual Task name Updated Task, expected task name Updated Task 
+2025-03-12 11:58:02  [ToDoStepDef] (main:) Task Updated Task displayed as expected under All filter
+2025-03-12 11:58:02  [MvcTodoPage] (main:) Actual Task name Updated Task 
+2025-03-12 11:58:02  [ToDoStepDef] (main:) Task Rename Task not displayed as expected under All filter
+2025-03-12 11:58:02  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:58:02  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:58:02  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:58:02  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:58:02  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:58:02  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:58:02  [ToDoStepDef] (main:) Task Mark All Task1 added successfully
+2025-03-12 11:58:03  [MvcTodoPage] (main:) items left text 2 items left!
+2025-03-12 11:58:03  [MvcTodoPage] (main:) items left count 2
+2025-03-12 11:58:03  [ToDoStepDef] (main:) Task Mark All Task2 added successfully
+2025-03-12 11:58:03  [ToDoStepDef] (main:) Filter All selected as expected 
+2025-03-12 11:58:33  [ToDoStepDef] (main:) All Tasks marked as completed as expected
+2025-03-12 11:58:33  [ToDoStepDef] (main:) All tasks marked as completed as expected 
+2025-03-12 11:58:33  [MvcTodoPage] (main:) items left text 0 items left!
+2025-03-12 11:58:33  [MvcTodoPage] (main:) items left count 0
+2025-03-12 11:58:33  [ToDoStepDef] (main:) Number of items left count matching expected 0 actual 0
+2025-03-12 11:58:33  [ToDoStepDef] (main:) -------Screen shot added-------
+2025-03-12 11:58:33  [ToDoStepDef] (main:) -------Session Started-------
+2025-03-12 11:58:33  [Browsers] (main:) ** Launching to https://todomvc.com/examples/react/dist***
+2025-03-12 11:58:33  [MvcTodoPage] (main:) items left text 1 item left!
+2025-03-12 11:58:33  [MvcTodoPage] (main:) items left count 1
+2025-03-12 11:58:33  [ToDoStepDef] (main:) Task Clear Completed Task added successfully
+2025-03-12 11:58:33  [ToDoStepDef] (main:) Task Clear Completed Task marked as completed as expected
+2025-03-12 11:58:34  [ToDoStepDef] (main:) Filter Completed selected as expected 
+2025-03-12 11:58:34  [ToDoStepDef] (main:) Cleared all completed tasks as expected 
+2025-03-12 11:58:34  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='All']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [326e6fd8065e7ae601241bd3fa4d67c7, findElement {value=//ul[@class='filters']//a[text()='All'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50304}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50304/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 326e6fd8065e7ae601241bd3fa4d67c7 while verifying task Clear Completed Task
+2025-03-12 11:58:34  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under All filter
+2025-03-12 11:58:34  [MvcTodoPage] (main:) Exception org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='filters']//a[text()='Completed']"}
+  (Session info: chrome=134.0.6998.45)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.3.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [326e6fd8065e7ae601241bd3fa4d67c7, findElement {value=//ul[@class='filters']//a[text()='Completed'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/wk/35b08lgx5w9...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50304}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50304/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 326e6fd8065e7ae601241bd3fa4d67c7 while verifying task Clear Completed Task
+2025-03-12 11:58:34  [ToDoStepDef] (main:) Task Clear Completed Task not displayed as expected under Completed filter
+2025-03-12 11:58:34  [ToDoStepDef] (main:) -------Screen shot added-------

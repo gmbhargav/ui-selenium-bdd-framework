@@ -36,14 +36,9 @@ public class MvcTodoPage {
     @FindBy(xpath = "//li[contains(@data-testid,'todo')]//label")
     List<WebElement> labelsTasks;
 
-    @FindBy(xpath = "//li[contains(@data-testid,'todo')]//input[@type='checkbox']")
-    List<WebElement> checkboxTasksList;
-
-//    @FindBy(xpath = "//span[@class='todo-count']/strong")
     @FindBy(className = "todo-count")
     WebElement labelItemsLeft;
 
-//    @FindBy(xpath = "//button[normalize-space()='Clear completed']")
     @FindBy(className = "clear-completed")
     WebElement btnClearCompleted;
 
@@ -57,7 +52,6 @@ public class MvcTodoPage {
         boolean flag = false;
         try {
             waitTillElementIsPresent(inputNewTodo);
-//            inputNewTodo.click();
             inputNewTodo.sendKeys(task);
             inputNewTodo.sendKeys(Keys.ENTER);
             this.actNumberOfItems=this.getNumberOfItemsLeft();
@@ -66,23 +60,6 @@ public class MvcTodoPage {
             }
         } catch (Exception e) {
             LOGGER.error("Exception {} while adding task {}", e.toString(), task);
-        }
-        return flag;
-    }
-
-    public boolean verifyTaskDisplayed(String task) {
-        boolean flag = false;
-        String actTask;
-        try {
-            for (WebElement element : labelsTasks) {
-                actTask = element.getText().trim();
-                if (actTask.equalsIgnoreCase(task)) {
-                    flag = true;
-                    break;
-                }
-            }
-        } catch (Exception e) {
-            LOGGER.error("Exception {} while verifying task {}", e.toString(), task);
         }
         return flag;
     }
@@ -207,7 +184,6 @@ public class MvcTodoPage {
         try {
             waitTillElementIsPresent(btnMarkAllCompleted);
             btnMarkAllCompleted.click();
-//            Thread.sleep(1000);
             flag = true;
         } catch (Exception e) {
             LOGGER.error("Exception {} marking all tasks as completed", e.toString());
