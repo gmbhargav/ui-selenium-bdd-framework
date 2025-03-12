@@ -10,7 +10,7 @@ Feature: Verify Todo MVC
     When I Add "Create Repo" Todo task
     Then I should see "Create Repo" task available under "All" todo list
     And I should see "Create Repo" task available under "Active" todo list
-
+#
 
   Scenario: Verify Number of Items left count matching with Active Tasks
     Given I Add "Active Task" Todo task
@@ -41,7 +41,7 @@ Feature: Verify Todo MVC
     When I rename "Rename Task" Todo task as "Updated Task"
     Then I should see "Updated Task" task available under "All" todo list
     And I should see "Rename Task" task not available under "All" todo list
-
+#
   Scenario: Verify Mark all tasks as completed
     Given I launch the MVC site
     And I Add "Mark All Task1" Todo task
@@ -51,10 +51,9 @@ Feature: Verify Todo MVC
     Then I should see all tasks marked as completed
     And I should see 0 number of items left displayed
 
-
-  Scenario: Verify Clear Completed tasks
-    Given I select "All" filter
-    And I Add "Clear Completed Task" Todo task
+#
+  Scenario: Verify Clear Completed task
+    Given I Add "Clear Completed Task" Todo task
     And  I select "Clear Completed Task" Todo task as completed
     And I select "Completed" filter
     When I clear all completed tasks
