@@ -13,7 +13,7 @@ Add read me file
 
 ## Usage
 - Clone the repo      :
-  ```git clone git@github.com:gmbhargav/cognizant-coding-test.git```
+  ```git clone git@github.com:gmbhargav/ui-selenium-bdd-framework.git```
 - Run Below command to execute automation suite on different browsers:
     - Chrome (default): ```mvn verify -Dbrowser=chrome -Dcucumber.filter.tags=@todo_tasks```
     - Chrome Headless : ```mvn verify -Dbrowser=chrome-headless -Dcucumber.filter.tags=@todo_tasks```
