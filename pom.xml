@@ -105,7 +105,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <projectName>Cognizant-Automation-Cucumber-Report</projectName>
+                            <projectName>Automation-Cucumber-Report</projectName>
                             <skip>false</skip>
                             <outputDirectory>${project.basedir}/reports/cucumber-advanced-reports</outputDirectory>
                             <inputDirectory>${project.basedir}/reports/cucumber-advanced-reports</inputDirectory>
